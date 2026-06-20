@@ -3,7 +3,7 @@
 A premium, production-ready developer utility built exclusively for the **Digital Heroes Trial Task**. This tool offers real-time syntax checking, instant formatting, code minification, and clean structural error feedback with line and column precision.
 
 ## 🌐 Live Application Access
-*   **🎯 Live Demo Link**: [Deploying via Vercel... Link Will Be Updated Here]
+*   **🎯 Live Demo Link**: [https://digital-heroes-task-pearl.vercel.app](https://digital-heroes-task-pearl.vercel.app)
 
 ---
 
